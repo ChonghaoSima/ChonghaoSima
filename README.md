@@ -3,8 +3,7 @@
 -  I am Chonghao Sima (司马崇昊).
 -  I am currently a research developer at Shanghai AI Lab, supervised by [Dr. Hongyang Li](https://scholar.google.com.hk/citations?user=Hfrih1EAAAAJ&hl=en). 
 -  I received my bachelor degree at the [Department of Computer Science and Technology](http://www.cs.hust.edu.cn/), Huazhong University of Science and Technology in 2019.
-
-[![ChonghaoSima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChonghaoSima&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-  I quit my Purdue Ph.D.
 
 <!--
 **ChonghaoSima/ChonghaoSima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
