@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -  I am Chonghao Sima (司马崇昊).
--  I am currently a research developer at Shanghai AI Lab, supervised by [Dr. Hongyang Li](https://scholar.google.com.hk/citations?user=Hfrih1EAAAAJ&hl=en). 
+-  I am currently a Ph.D. student at HKU, supervised by [Prof. Ping Luo](http://luoping.me/). Meanwhile I am a research developer at Shanghai AI Lab, supervised by [Dr. Hongyang Li](https://scholar.google.com.hk/citations?user=Hfrih1EAAAAJ&hl=en). 
 -  I received my bachelor degree at the [Department of Computer Science and Technology](http://www.cs.hust.edu.cn/), Huazhong University of Science and Technology in 2019.
 -  I quit my Purdue Ph.D.
 
